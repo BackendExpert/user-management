@@ -9,7 +9,7 @@
 
 - express
 - mongoose
-- cores
+- cors
 - nodemon
 - cookie-parser
 - bcrypt
